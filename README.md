@@ -18,8 +18,8 @@ Browse the [meeting archive](https://github.com/dotnet-foundation/wg-education/t
 
 ## Current Initiatives
 
-### .NET Training for CS Students
-Develop and run a program for students to learn about full stack web development using C# and .NET Core. The curriculum is a 12-week classroom-based course that combines hands-on lectures and workshops. Students will develop a project from design to deployment while applying the tools, concepts, and processes desired by high-tech employers. 
+### The .NET Foundation Academy
+Develop and run a program for higher education computer science students to learn about software development using C# and .NET. The first curriculum focuses on full stack web development using .NET 6. The course will be a 12-week virtual classroom-based instruction that combines hands-on lectures and workshops. Students will develop a project from ideation to deployment while applying the tools, concepts, and processes desired by high-tech employers. 
 
 ## Proposals
 If you have an idea you would like to propose to the Education committee relating to the main goals of our group, please create an [Issue](https://github.com/dotnet-foundation/wg-education/issues) in our working group GitHub repository. We are still working on a more formal proposal process.
