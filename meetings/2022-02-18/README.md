@@ -1,6 +1,7 @@
 # Education Committee Meeting
 ## February 18, 2022
 Start Time: 9:00 AM PT
+Recording: [Feb 18 Meeting](https://microsoft-my.sharepoint.com/:v:/r/personal/katiesavage_microsoft_com/Documents/Recordings/NET%20Foundation%20Education%20Committee%20Sync-20220218_090637-Meeting%20Recording.mp4?csf=1&web=1&e=VpUbpF)
 
 ## Meeting Attendees:
 - Katie Savage
