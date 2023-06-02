@@ -13,7 +13,7 @@ We'd love for you join the education committee! If you are interested in contrib
 
 **.NET Foundation Education Committee meetings**  
 The third Friday of each month from 12:00 PM to 1:00 PM ET
-- Fill out our [form](https://forms.office.com/r/uf3HLLevAK) to receive a meeting invitation.
+- Fill out our [form](https://forms.office.com/Pages/ResponsePage.aspx?id=3G8HFsH8FUqxyjLJolWQDm8F03uiB2VCoiyUmNsltiBUN0VVVUxOUjNWT01TNTBENFlIMFVGQ0xYWS4u) to receive a meeting invitation.
 
 Browse the [meeting archive](https://github.com/dotnet-foundation/wg-education/tree/master/meetings) or the [Issues tab](https://github.com/dotnet-foundation/wg-education/issues) if you'd like to get familiar with what we're currently working on and how you can help out.
 
