@@ -1,7 +1,9 @@
 # Welcome to the Education Committee
 The education committee is responsible for developing, sponsoring, and providing educational opportunities for the .NET community.
 
-**Chairpersons** [Katie Savage](https://github.com/katiesavage) & [Frank Odoom](https://github.com/frankodoom) 
+**Chairperson** The position is currently open. If you'd like to lead the Education Committee please join the Chat in [Discord](https://discord.gg/qCYd6Frw).
+
+**Former Chairpersons** [Katie Savage](https://github.com/katiesavage) & [Frank Odoom](https://github.com/frankodoom) 
 
 ## Main Goals of the Education Committee
 - Create open source educational content for the .NET community
@@ -9,7 +11,7 @@ The education committee is responsible for developing, sponsoring, and providing
 - Empower those who are underrepresented and underserved in the community
 
 ## Joining the Committee & Meetings
-We'd love for you join the education committee! If you are interested in contributing to the group, we'll add you to our monthly meeting invite. Meetings are held on Microsoft Teams.
+We'd love for you join the education committee! If you are interested in contributing to the group, we'll add you to our monthly meeting invite. Meetings are held on Discord.
 
 **.NET Foundation Education Committee meetings**  
 The third Friday of each month from 12:00 PM to 1:00 PM ET
